@@ -1,5 +1,5 @@
 name: extend_material
-description: This Flutter package provides a Material Design 3 modal side sheet widget.
+description: A Flutter package that extends the existing material package, to support Material3 content such as M3 motion/transition, components, and ...
 version: 0.0.1
 repository: https://github.com/Hamion/extend_material
 issue_tracker: https://github.com/Hamion/extend_material/issues
